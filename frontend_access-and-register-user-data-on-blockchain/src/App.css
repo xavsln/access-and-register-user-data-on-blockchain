@@ -1,0 +1,73 @@
+body {
+  background: url("./images/bg-2.jpg") no-repeat;
+  background-color: #070709;
+  color: white;
+}
+
+.title {
+  color: white;
+  margin-bottom: 1 rem;
+}
+
+.box {
+  margin-top: 50px;
+}
+
+.panel {
+  margin-top: 2em;
+}
+
+.panel-heading {
+  xbackground-image: linear-gradient(to left, #38052f, #070709);
+  background-color: black;
+  color: white;
+}
+
+.address-box {
+  padding: 3em;
+}
+
+.box .title {
+  color: #333;
+}
+
+.button {
+  height: 100%;
+  white-space: normal;
+}
+
+.navbar {
+  background-color: black;
+}
+
+.navbar .navbar-item {
+  color: white;
+}
+
+.connect-wallet span {
+  color: #e10859;
+}
+
+.connect-wallet:hover {
+  background-color: #e1e1e1 !important;
+}
+
+.container.main-content {
+  max-width: 1000px !important;
+}
+
+.register-hero-body {
+  margin-top: 100px;
+}
+
+.withdraw-error {
+  color: red;
+}
+
+.withdraw-success {
+  color: green;
+}
+
+li {
+  text-align: left;
+}
